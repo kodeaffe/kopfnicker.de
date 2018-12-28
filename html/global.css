@@ -1,0 +1,39 @@
+body { color: #FFCC33; background-color: #000000; }
+
+h1 { font-size: 48pt; font-family: Helvetica; color: #E24646; }
+h2 { font-size: 24pt; font-family: Verdana; color: #E24646; }
+h3 { font-size: 16pt; font-family: Verdana; color: #E24646; }
+h4 { font-size: 10pt; font-family: Verdana; color: #E24646; }
+
+p, span, ul
+   { font-size: 12pt; font-family: Helvetica; color: #FFCC33; }
+p.gross 
+   { font-size: 15pt; font-family: Helvetica; color: #FFCC33; }
+p.klein, span.klein
+   { font-size: 10pt; font-family: Helvetica; color: #FFCC33; }
+p.indent1
+   { font-size: 12pt; font-family: Helvetica; color: #FFCC33;
+     padding-left: 1cm; }
+p.line 
+   { margin-top: 0.5cm; margin-bottom: 0.5cm; text-align: center }
+
+table.indent1
+   { padding-left: 0.9cm }
+
+span.p
+   { font-size: 18pt; }
+
+td 
+   { font-size: 12pt; font-family:Helvetica; color:#FFCC33; }
+td.date
+   { font-size: 12pt; font-family: Helvetica;
+     color: #FFFFFF; vertical-align: top; }
+td.caption 
+   { color: #000000; background-color: #FFCC33 }
+td.spacer
+   { background-color: #E23646 }
+
+a:link { color: #FFFFFF; }
+a:visited { color: #11FFEE; }
+
+
